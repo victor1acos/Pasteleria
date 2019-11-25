@@ -1,0 +1,40 @@
+Nombre: Víctor Hugo Acosta Martínez
+Grupo: Vespertino 2
+Fecha: 25/Nov/2019
+
+GIT
+
+Cual es la diferencia entre git y GitHUB?
+	- git es el versionador y github es una plataforma que nos permite alojar y administrar los repositorios de git
+En cuantos y cuales estados puede estar un archivo?
+	- son 3, staged, commited y modified/working
+Para que sirve el comando "git add ." ?
+	- añade todas las modificaciones del directorio actual al staging area
+Cuales son los 4 datos mas relevantes a la hora de hacer un commit?
+	1) Cambios realizados
+	2) usuario
+	3) comentario
+	4) destino
+Cual es el comando para crear una rama en mi repositorio?
+	- git checkout -b <name>
+
+JIRA
+
+Defina lo que es un issue: 
+	- es un elemento que puede representar una "tarea" a realizar
+En kanban y scrum, cuales son las columnas default de un tablero?
+	- to do
+	- doing / in progress
+	- done
+Como se habilita la funcion de backlog en un tablero Kanban?
+	- en la configuracion del proyecto, luego en Características y ahi en la opcion de habilitar Backlog
+
+Jenkins
+
+Cual es el atajo (ruta relativa) para el directorio home de un usuario de ubuntu?
+	1) cd ~
+	2) cd $HOME (Solo si no se le cambio el nombre a la variable del systema)
+Una vez instalado Jenkins, como se desbloquea para poder comenzar a usarlo?
+	- sudo service jenkins start (no se si la pregunta va dirigida a como inciar el servicio de jenkins para poder accesar)
+Cual es la relacion entre Hudson y Jenkins?
+	- Hudson es el "padre" de Jenkins, con diferencia que Hudson es ahora de Oracle y Jenkis sigue siendo mantenido por la comunidad
